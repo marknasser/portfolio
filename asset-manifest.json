@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1fe51b1f.css",
-    "main.js": "/portfolio/static/js/main.275c5987.js",
+    "main.js": "/portfolio/static/js/main.9fa42732.js",
     "static/media/tripguide.png": "/portfolio/static/media/tripguide.991986c795ea140ba063.png",
     "static/media/Fit-Club GYM.png": "/portfolio/static/media/Fit-Club GYM.e1ae3f233a9590283320.png",
     "static/media/herobg.png": "/portfolio/static/media/herobg.ad33add2430e34307c33.png",
@@ -18,7 +18,7 @@
     "static/media/firebase.png": "/portfolio/static/media/firebase.6f1a1b336c5d7f5b6a79.png",
     "static/media/bonik-1.jpg": "/portfolio/static/media/bonik-1.ceabe1d3a60d218e2840.jpg",
     "static/media/bankist.jpg": "/portfolio/static/media/bankist.cf979d14662871a3a40a.jpg",
-    "static/media/Mark's Resume.pdf": "/portfolio/static/media/Mark's Resume.f531a9153cd9198d4006.pdf",
+    "static/media/Mark's Resume.pdf": "/portfolio/static/media/Mark's Resume.9ef10c16de814a245a15.pdf",
     "static/media/web.png": "/portfolio/static/media/web.c0cb2cc13791a26822d3.png",
     "static/media/logo-no-background.png": "/portfolio/static/media/logo-no-background.30dc3ef76f0df475989e.png",
     "static/media/globe.png": "/portfolio/static/media/globe.cb12cdb593dee097e729.png",
@@ -45,10 +45,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/threejs.svg": "/portfolio/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
     "main.1fe51b1f.css.map": "/portfolio/static/css/main.1fe51b1f.css.map",
-    "main.275c5987.js.map": "/portfolio/static/js/main.275c5987.js.map"
+    "main.9fa42732.js.map": "/portfolio/static/js/main.9fa42732.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe51b1f.css",
-    "static/js/main.275c5987.js"
+    "static/js/main.9fa42732.js"
   ]
 }
