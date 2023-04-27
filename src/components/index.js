@@ -1,0 +1,10 @@
+export { default as About } from "./about/About";
+export { default as Navbar } from "./navbar/Navbar";
+export { default as Experience } from "./Experience";
+export { default as Home } from "./home/Home";
+export { default as Contact } from "./Contact";
+export { default as Tech } from "./Tech";
+export { default as Feedbacks } from "./Feedbacks";
+export { default as Works } from "./Works";
+export { default as DotGroup } from "./navbar/DotGroup";
+export { default as SocialMediaIcons } from "./home/SocialMediaIcons";
